@@ -1,2 +1,1 @@
-# Nand2Tetris
-# Building modern computers from the NAND gate
+### Building modern computers from the NAND gate
