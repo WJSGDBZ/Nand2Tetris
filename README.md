@@ -1,5 +1,5 @@
 ### Build 16 - bit modern computer from NAND gate, for reference, please do not copy
-### Assember rule
+### Assember role
 #### SymbolTable Class&emsp;：restore symbol
 #### Parser Class&emsp;&emsp;&emsp;&emsp;：get the different commands and breaks them into parts
 #### Code Class&emsp;&emsp;&emsp;&emsp;&nbsp;：convert instruction to binary
