@@ -1,9 +1,9 @@
 ### Build 16 - bit modern computer from NAND gate, for reference, please do not copy
 ### Assember rule
 #### SymbolTable Class&nbsp;：restore symbol
-#### Parser Class&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：get the different commands and breaks them into parts
-#### Code Class&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：convert instruction to binary
-#### Compiler Class&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：Main loop，read the file
+#### Parser Class&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：get the different commands and breaks them into parts
+#### Code Class&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：convert instruction to binary
+#### Compiler Class&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：Main loop，read the file
 ### Assember usage
 - 创建符号表，将预声明符号填入(初始化)
 - 第一遍整体扫描，寻找声明标签，如果声明没有错误，将其填入符号表，在整个过程中记录读的指令行数（方便找标签对应的地址）
