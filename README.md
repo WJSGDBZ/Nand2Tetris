@@ -2,7 +2,7 @@
 ### Assember rule
 #### SymbolTable Class&emsp;：restore symbol
 #### Parser Class&emsp;&emsp;&emsp;&emsp;：get the different commands and breaks them into parts
-#### Code Class&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;：convert instruction to binary
+#### Code Class&emsp;&emsp;&emsp;&emsp;&nbsp;：convert instruction to binary
 #### Compiler Class&emsp;&emsp;&nbsp;&nbsp;：Main loop，read the file
 ### Assember usage
 - 创建符号表，将预声明符号填入(初始化)
